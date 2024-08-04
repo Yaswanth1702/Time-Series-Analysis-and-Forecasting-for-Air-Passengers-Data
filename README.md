@@ -1,6 +1,6 @@
 # Time Series Analysis of Air Passengers Data
 
-This repository contains a comprehensive analysis of the Air Passengers time series dataset using Python. The analysis covers data exploration, stationarity checks, transformations, and ARIMA modeling to forecast the number of airline passengers.
+This project is comprehensive analysis of the Air Passengers time series dataset using Python. The analysis covers data exploration, stationarity checks, transformations, and ARIMA modeling to forecast the number of airline passengers.
 
 ## Overview
 
